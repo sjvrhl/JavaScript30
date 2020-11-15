@@ -63,7 +63,6 @@
     if(!audio) return; // exits function if key pressed is not tied to audio
     audio.currentTime = 0; // enables you to play all audio in quick succession
     audio.play();
-    console.log(key);
     key.classList.add('playing'); // changes the style of the button when pressed
   }
   function removeTransition(e) {
