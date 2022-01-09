@@ -1,6 +1,10 @@
 html {
   font-size: 10px;
+<<<<<<< HEAD
   background: url(boc.jpg) center center;
+=======
+  background: url('./background.jpg') bottom center;
+>>>>>>> 8966f8df38eec41314f313dc82d0689ec1fc679d
   background-size: cover;
 }
 
